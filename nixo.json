@@ -1,0 +1,187 @@
+{
+    "Categories": 
+        [
+            {
+                "name": "People"
+            },
+            {
+                "name": "Architecture"
+            },
+            {
+                "name": "City"
+            },
+            {
+                "name": "Mountain"
+            },
+            {
+                "name": "Forest"
+            },
+            {
+                "name": "Sunset"
+            },
+            {
+                "name": "Nature"
+            },
+            {
+                "name": "Satellite"
+            },
+
+
+            {
+                "name": "Animal"
+            },
+            {
+                "name": "Ocean"
+            },
+            {
+                "name": "Beach"
+            },
+            {
+                "name": "Road"
+            },
+            {
+                "name": "Black and White"
+            },
+            {
+                "name": "House"
+            }
+        ],
+    
+	"Wallpapers":
+        [
+			{
+				"author": "Atanu Sanyal",
+				"url": "https://preview.ibb.co/hxpPdy/wall7.png",
+				"thumbUrl": "https://preview.ibb.co/hxpPdy/wall7.png",
+				"name": "Wallpaper 1",
+                "category": "people"
+			},
+            {
+				"author": "Atanu Sanyal",
+				"url": "https://preview.ibb.co/jFwRrJ/wall6.png",
+				"thumbUrl": "https://preview.ibb.co/jFwRrJ/wall6.png",
+				"name": "Wallpaper 2",
+                "category": "people"
+			},
+            {
+				"author": "Atanu Sanyal",
+				"url": "https://preview.ibb.co/fbcAJy/wall5.png",
+				"thumbUrl": "https://preview.ibb.co/fbcAJy/wall5.png",
+				"name": "Wallpaper 3",
+                "category": "people"
+			},
+            {
+				"author": "Atanu Sanyal",
+				"url": "https://image.ibb.co/dcUCWJ/wall4.png",
+				"thumbUrl": "https://image.ibb.co/dcUCWJ/wall4.png",
+				"name": "Wallpaper 4",
+                "category": "people"
+			},
+            {
+				"author": "Atanu Sanyal",
+				"url": "https://preview.ibb.co/dqqxyy/wall3.png",
+				"thumbUrl": "https://preview.ibb.co/dqqxyy/wall3.png",
+				"name": "Wallpaper 5",
+                "category": "people"
+			},
+            {
+				"author": "Atanu Sanyal",
+				"url": "https://image.ibb.co/c1DHyy/wall2.png",
+				"thumbUrl": "https://image.ibb.co/c1DHyy/wall2.png",
+				"name": "Wallpaper 6",
+                "category": "people"
+			},
+            {
+				"author": "Atanu Sanyal",
+				"url": "https://image.ibb.co/e2HhWJ/wall1.png",
+				"thumbUrl": "https://image.ibb.co/e2HhWJ/wall1.png",
+				"name": "Wallpaper 7",
+                "category": "people"
+			},
+            {
+				"author": "Atanu Sanyal",
+				"url": "https://image.ibb.co/jtAQkd/wall_nixo11.png",
+				"thumbUrl": "https://image.ibb.co/jtAQkd/wall_nixo11.png",
+				"name": "Wallpaper 8",
+                "category": "people"
+			},
+            {
+				"author": "Atanu Sanyal",
+				"url": "https://image.ibb.co/b5VEdy/wall_nixo10.png",
+				"thumbUrl": "https://image.ibb.co/b5VEdy/wall_nixo10.png",
+				"name": "Wallpaper 9",
+                "category": "people"
+			},
+            {
+				"author": "Atanu Sanyal",
+				"url": "https://image.ibb.co/dGuJ5d/wall_nixo9.png",
+				"thumbUrl": "https://image.ibb.co/dGuJ5d/wall_nixo9.png",
+				"name": "Wallpaper 10",
+                "category": "people"
+			},
+			{
+				"author": "Atanu Sanyal",
+				"url": "https://image.ibb.co/dDp7yy/wall_nixo8.png",
+				"thumbUrl": "https://image.ibb.co/dDp7yy/wall_nixo8.png",
+				"name": "Wallpaper 11",
+                "category": "people"
+			},
+			{
+				"author": "Atanu Sanyal",
+				"url": "https://image.ibb.co/jgShWJ/wall_nixo7.png",
+				"thumbUrl": "https://image.ibb.co/jgShWJ/wall_nixo7.png",
+				"name": "Wallpaper 12",
+                "category": "people"
+			},
+			{
+				"author": "Atanu Sanyal",
+				"url": "https://image.ibb.co/jJid5d/wall_nixo6.png",
+				"thumbUrl": "https://image.ibb.co/jJid5d/wall_nixo6.png",
+				"name": "Wallpaper 13",
+                "category": "people"
+			},
+			{
+				"author": "Atanu Sanyal",
+				"url": "https://image.ibb.co/hhrnyy/wall_nixo5.png",
+				"thumbUrl": "https://image.ibb.co/hhrnyy/wall_nixo5.png",
+				"name": "Wallpaper 14",
+                "category": "people"
+			},
+			{
+				"author": "Atanu Sanyal",
+				"url": "https://image.ibb.co/gP6y5d/wall_nixo4.png",
+				"thumbUrl": "https://image.ibb.co/gP6y5d/wall_nixo4.png",
+				"name": "Wallpaper 15",
+                "category": "people"
+			},
+			{
+				"author": "Atanu Sanyal",
+				"url": "https://image.ibb.co/jBTd5d/wall_nixo3.png",
+				"thumbUrl": "https://image.ibb.co/jBTd5d/wall_nixo3.png",
+				"name": "Wallpaper 16",
+                "category": "people"
+			},
+			{
+				"author": "Atanu Sanyal",
+				"url": "https://image.ibb.co/bXMLJy/wall_nixo2.png",
+				"thumbUrl": "https://image.ibb.co/bXMLJy/wall_nixo2.png",
+				"name": "Wallpaper 17",
+                "category": "people"
+			},
+			{
+				"author": "Atanu Sanyal",
+				"url": "https://image.ibb.co/fUAfJy/wall_nixo.png",
+				"thumbUrl": "https://image.ibb.co/fUAfJy/wall_nixo.png",
+				"name": "Wallpaper 18",
+                "category": "people"
+			},
+			{
+				"author": "Atanu Sanyal",
+				"url": "https://image.ibb.co/cNRy5d/wall_nixo1.png",
+				"thumbUrl": "https://image.ibb.co/cNRy5d/wall_nixo1.png",
+				"name": "Wallpaper 19",
+                "category": "people"
+			}
+            
+		]
+}
